@@ -18,4 +18,5 @@
 All functions and their uses are defined in the ssd1306.c file.
 
 **Connection Diagram**
-![Schematic Diagram](<a href="https://imgbb.com/"><img src="https://i.ibb.co/s6Tgz5Z/STM32-Connection.png" alt="STM32-Connection" border="0"></a>)
+
+(<a href="https://imgbb.com/"><img src="https://i.ibb.co/s6Tgz5Z/STM32-Connection.png" alt="STM32-Connection" border="0"></a>)
