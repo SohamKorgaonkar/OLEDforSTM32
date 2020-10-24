@@ -239,6 +239,4 @@ void SSD1306_ClearScreen(){
 			ssd1306_DrawPixel(i,j,0);
 		}
 	}
-	ssd1306_UpdateScreen();
-	
 }
